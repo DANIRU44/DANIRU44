@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniil</h1>
 <h3 align="center">Novice developer with big ambitions</h3>
 
-- 💬 Ask me about **I started programming in the spring of 2022. I was attracted not by money and mobility, but by the fact that I can write just a few lines and get results right away, besides, I want to contribute to the development of technology and in our age, programming is the most impressive contribution to technology. In the future, I plan to get into a good IT company and move as high as possible up the career ladder in order to become significant for the IT world.**
+- 💬 About me **I started programming in the spring of 2022. I was attracted not by money and mobility, but by the fact that I can write just a few lines and get results right away, besides, I want to contribute to the development of technology and in our age, programming is the most impressive contribution to technology. In the future, I plan to get into a good IT company and move as high as possible up the career ladder in order to become significant for the IT world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
