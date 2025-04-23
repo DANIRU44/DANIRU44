@@ -1,12 +1,6 @@
 <h1 align="center">Привет, меня зовут Даниил 👋</h1>
 <h3 align="center">Backend Developer | Python & Django</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&width=600&lines=Превращаю+идеи+в+рабочие+API;Ищу новые пути;Учусь+каждый+день+новому+%F0%9F%93%9A" alt="Typing SVG" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Мой стек технологий
