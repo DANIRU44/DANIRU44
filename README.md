@@ -49,7 +49,7 @@
 
 #
 ### Календарь жизни — визуализируй свою жизнь
-✅ **Стек**: Go (Gin, GORM) | PostgreSQL | Redis | Kafka | React | Docker  
+✅ **Стек**: Go (Gin, GORM) | PostgreSQL | Redis | Kafka | S3 | Docker | React 
 ✅ **Фичи**:
 - Микросервисная архитектура
 - Email-сервис
@@ -83,7 +83,7 @@
 
 #
 ### Bismuth - развивайся вместе с друзьями
-✅ **Стек**: Django | PostgreSQL | JS   
+✅ **Стек**: Django | PostgreSQL | S3| JS   
 ✅ **Фичи**:  
 - Современный и понятный интерфейс  
 - Система друзей и рейтингов
