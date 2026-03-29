@@ -1,5 +1,5 @@
-<h1 align="center">Привет, меня зовут Даниил 👋</h1>
-<h3 align="center">Backend Developer | Python & Django</h3>
+<h1 align="center">Привет!</h1>
+<h3 align="center">Backend Developer | Python & Go</h3>
 
 ---
 
